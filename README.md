@@ -8,11 +8,13 @@
 황수인
 
 ### 사용한 오픈소스 (~20.05.27)
-Darknet Yolo (version 4) - customed by AlexyAB (https://github.com/AlexeyAB/darknet)
+Darknet Yolo v4 - customed by AlexyAB (https://github.com/AlexeyAB/darknet)
 
-labelImg (https://github.com/tzutalin/labelImg)
+labelImg v1.8.3 (https://github.com/tzutalin/labelImg)
 
-Selenium, Beautifulsoup
+Selenium 
+
+Beautifulsoup
 
 ## 활동 내역
 ### 20.05.21
