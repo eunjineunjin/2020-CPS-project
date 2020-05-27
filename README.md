@@ -10,11 +10,11 @@
 ### 사용한 오픈소스 (~20.05.27)
 Darknet Yolo v4 - customed by AlexyAB (https://github.com/AlexeyAB/darknet)
 
-gcc v7.5.0
+gcc 7.5.0
 
-opencv v3.2.0
+opencv 3.2.0
 
-labelImg v1.8.3 (https://github.com/tzutalin/labelImg)
+labelImg 1.8.3 (https://github.com/tzutalin/labelImg)
 
 Selenium 
 
