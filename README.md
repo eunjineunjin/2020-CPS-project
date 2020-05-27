@@ -34,4 +34,4 @@ Yolo/custom/obj.data,obj.names,train.txt
 
 Yolo/custom/obj --> 데이터세트) 
 
-Colaboratory에서 실행 및 학습할 수 있는 코드 업로드 (Yolo/yolov3darknet_test.ipynb) / 학습 중 (20.05.27 iteration 4900 avg loss 1.4384)
+Colaboratory에서 실행 및 학습할 수 있는 코드 업로드 (Yolo/yolov3darknet_test.ipynb) / 학습 중 (20.05.28 iteration 5800 avg loss 1.1677)
