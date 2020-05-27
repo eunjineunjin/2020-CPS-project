@@ -8,7 +8,7 @@
 황수인
 
 ### 사용한 오픈소스 (~20.05.27)
-Darknet Yolo v4 - customed by AlexyAB (https://github.com/AlexeyAB/darknet)
+Darknet Yolo v4 - customed by AlexeyAB (https://github.com/AlexeyAB/darknet)
 
 gcc 7.5.0
 
