@@ -16,9 +16,9 @@ opencv 3.2.0
 
 labelImg 1.8.3 (https://github.com/tzutalin/labelImg)
 
-Selenium 
+Selenium 3.141.0
 
-Beautifulsoup
+Beautifulsoup 4.9.0
 
 ## 활동 내역
 ### 20.05.21
