@@ -88,8 +88,30 @@ Yolo/custom/obj --> 데이터세트)
 
 Colaboratory에서 실행 및 학습할 수 있는 코드 업로드 (Yolo/yolov3darknet_test.ipynb) / 학습 중 (20.05.28 iteration 5800 avg loss 1.1677)
 
+### 20.05.27
+채원 : 동물 이미지에 대한 탐지 수행
+![꿩실팽 ㅠ](https://user-images.githubusercontent.com/54882655/84668698-e27f4680-af5e-11ea-8709-f15e7e6be02f.jpg)
+
+![고양애매](https://user-images.githubusercontent.com/54882655/84668702-e3b07380-af5e-11ea-9aaa-3be4c4bbdc19.jpg)
+
+![고라니성공!!](https://user-images.githubusercontent.com/54882655/84668705-e3b07380-af5e-11ea-8f1c-c29c25088892.jpg)
+
+![멧돼지성공!!](https://user-images.githubusercontent.com/54882655/84668706-e4490a00-af5e-11ea-844c-051d9fb78258.jpg)
+
+![뉴트리아성공](https://user-images.githubusercontent.com/54882655/84668708-e4e1a080-af5e-11ea-9157-9978fe86f5e7.png)
+
 ### 20.06.03
 채원 : 가장 가중치가 낮게 잡혔던 6000번대 가중치 파일(yolo-obj_6000.weights)로 멧돼지, 고라니, 꿩, 뉴트리아, 개, 고양이의 영상에 대한 탐지 수행 --> 멧돼지, 고라니, 고양이가 잘 tracking되어 이 셋을 주로 한 프로젝트를 시행하고자 함.
+
+#### 멧돼지
+![KakaoTalk_20200615_232224604](https://user-images.githubusercontent.com/54882655/84669053-5cafcb00-af5f-11ea-9177-09d8707d39b3.gif)
+
+#### 고라니
+![KakaoTalk_20200615_231931826_02](https://user-images.githubusercontent.com/54882655/84668741-f034cc00-af5e-11ea-84d8-de7473ad68ff.gif)
+
+#### 고양이
+![KakaoTalk_20200615_231931826_01](https://user-images.githubusercontent.com/54882655/84668747-f1fe8f80-af5e-11ea-8d49-48fc6896835d.gif)
+
 
 ### 20.06.06
 수인: VMware 가상머신 안의 Ubuntu 환경에서 Apache, MySQL, PHP 설치 후 http://localhost/cps2.php 서버 구축을 완성했다. 서버 생성 후 yolo에서 생성된 데이터를 서버로 보낼 수 있게 image.c 파일 코드(yolo - src 파일에 들어있다)를 수정했다.
