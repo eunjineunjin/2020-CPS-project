@@ -37,8 +37,11 @@ Flask 1.1.2
 ## 코드 및 파일 설명
 ### Crawling/
 crawler.py : 구글 이미지를 수집할 수 있는 크롤러, 이를 통해 멧돼지, 고라니, 꿩, 뉴트리아, 개, 고양이의 이미지를 수집했다.
+
 data.zip : 수집한 이미지를 바탕으로 라벨링을 진행한 결과물, 수집한 이미지의 집합
+
 image(1).zip : 수집한 이미지
+
 result(1).zip : 수집한 이미지를 바탕으로 라벨링을 진행한 결과물
 
 ### Flask/
@@ -46,12 +49,16 @@ flask_cps.py, flask_web_server_create.py : 구글 colab 내에서 Flask 웹서�
 
 ### UserApp/
 AndroidManifest.xml : 앱 실행 시 빌드하기 위한 실행파일
+
 MainActivity.java : 앱 실행 시 최초로 동작하는 코드이며 버튼을 누르면 현재 감지한 상태와 시각을 출력하도록 만듬
+
 MyFireBaseMessagingService.java : 구글으로부터 알림 메시지를 받아 출력하는 서비스. 앱이 실행되지 않고 있는 상태에서 동작하며 알림 클릭 시 앱 실행, 이게 동작하도록 AndroidManifest.xml에 서비스 
 
 ### Yolo/
 custom : AlexeyAB의 darknet에서 이번 프로젝트에 맞게 수정한 파일들의 목록
+
 darknet-master : 사용한 AlexeyAB의 darknet
+
 yolov3darknet_test.ipynb : colab에서 yolo를 실행시키기 위한 실행코드
 
 ### automaticFCM.py
