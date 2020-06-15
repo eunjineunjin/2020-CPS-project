@@ -90,6 +90,7 @@ Colaboratory에서 실행 및 학습할 수 있는 코드 업로드 (Yolo/yolov3
 
 ### 20.05.27
 채원 : 동물 이미지에 대한 탐지 수행
+
 ![꿩실팽 ㅠ](https://user-images.githubusercontent.com/54882655/84668698-e27f4680-af5e-11ea-8709-f15e7e6be02f.jpg)
 
 ![고양애매](https://user-images.githubusercontent.com/54882655/84668702-e3b07380-af5e-11ea-9aaa-3be4c4bbdc19.jpg)
