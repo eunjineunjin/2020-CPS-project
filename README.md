@@ -59,10 +59,13 @@ custom : AlexeyAB의 darknet에서 이번 프로젝트에 맞게 수정한 파�
 
 darknet-master : 사용한 AlexeyAB의 darknet
 
-yolov3darknet_test.ipynb : colab에서 yolo를 실행시키기 위한 실행코드
+yolov3darknet_test.ipynb : colab에서 yolo를 실행시키기 위한 실행코드 (1)
 
 ### automaticFCM.py
 구축한 어플에게 서버에서 정보를 전송하도록 하는 파이썬 
+
+### yolov3darknet_test.ipynb
+colab에서 yolo를 실행시키기 위한 실행코드 (2)
 
 
 ## 활동 내역
