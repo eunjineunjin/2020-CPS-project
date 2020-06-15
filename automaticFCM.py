@@ -5,23 +5,7 @@ mToken = "985996741706"
 
 push_service = FCMNotification(api_key=mApi_key)
 
-
-mMessage = {
-    "body" : "test1"
-}
-
-# result = push_service.single_device_data_message(registration_id=mToken, data_message=data_message)
-
-
-message_title = "ttitle"
-message_body = "bbdoy"
-
-
-
-
-#result = push_service.notify_multiple_devices(registration_ids=push_tokens, message_title=message_title, message_body=message_body)
+message_title = "멧돼지 감지"
+message_body = "멧돼지가 감지되었습니다."
 
 result = push_service.notify_single_device(registration_id=mToken, message_title=message_title, message_body=message_body)
-
-
-print(result)
