@@ -59,7 +59,7 @@ Colaboratory에서 실행 및 학습할 수 있는 코드 업로드 (Yolo/yolov3
 ### 20.06.10
 수인: Google Colaboratory 환경에서 파이썬 코드(flask_cps.py)를 작성하여 Flask 서버 구축을 완성하였다. (flask_web_server_create.py 파일은 Google Colaboratory에서 실행시킬 수 있는 전체 코드이다.)
 
-하지만 실행 코드를 다시 실행시킬 때마다 Flask 서버의 주소가 매번 바뀌고, 이 또한 yolo와 함께 실행하는 방법을 찾지 못한 이유로 yolo와 Flask 서버의 연결도 실패했다. 
+실패경험: 하지만 실행 코드를 다시 실행시킬 때마다 Flask 서버의 주소가 매번 바뀌고, 이 또한 yolo와 함께 실행하는 방법을 찾지 못한 이유로 yolo와 Flask 서버의 연결도 실패했다. 
 
 은진: 어플이 서버로부터 정보를 받아 출력하는 기능을 추가하기 위해 jsoup을 사용하였다. 화면에 데이터를 출력하기 위해 ListView를 사용하였다.
 ### 20.06.13
